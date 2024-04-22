@@ -160,7 +160,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "purohitchanchal99@gmail.com"
-EMAIL_HOST_PASSWORD = 'labm yysr ousp fvdx'
+EMAIL_HOST_PASSWORD = 'password photo is save in garelly'
 EMAIL_HOST = 'smtp.gmail.com'
 
 
@@ -170,7 +170,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = 587
 # EMAIL_USE_TLS = True
 # #mention email id want to use to send email
-# EMAIL_HOST_USER = "purohitchanchal99@gmail.com"
+#
 # #passward
-# EMAIL_HOST_PASSWORD = 'chan0499'
+#MAIL_HOST_PASSWORD = 'labm yysr ousp fvdx'
 # EMAIL_HOST = 'smtp.gmail.com'
